@@ -12,7 +12,6 @@ function HeroSection() {
       <img src={process.env.PUBLIC_URL +'/images/GameIllustration_StarshipScramble.jpg'} alt="Game illustration" />
       </div>
       <h1>ODYSSEY AWAITS</h1>
-      <p>From blueprints to reality, let creativity gleam,</p>
       <p>Starship Scramble, where dreams take steam.</p>
       <div className='hero-btns'>
         <Button
